@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Major League Hacking (MLH) + GitHub
 
-You can use the [editor on GitHub](https://github.com/futurelabmx/cc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Código de Conducta:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*TL; DR.* Se respetuoso. El acoso y el abuso nunca son tolerados. Si se encuentra en una situación que lo incomoda en un evento de MLH sancionado oficialmente, si el evento en sí crea un entorno inseguro o inapropiado, o si interactuar con un representante de MLH o un organizador del evento lo hace sentir incómodo, infórmelo usando los procedimientos incluidos. en este documento.
 
-### Markdown
+Major League Hacking es sinónimo de inclusividad. Creemos que cada persona tiene derecho a hackear en un entorno seguro y acogedor.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El acoso incluye pero no se limita a comentarios verbales o escritos ofensivos relacionados con el género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, religión, imágenes sexuales en espacios públicos, intimidación deliberada, acoso, seguimiento, acoso de fotografía o grabación , interrupción sostenida de las conversaciones u otros eventos, contacto físico inapropiado y atención sexual no deseada. Si lo que haces es hacer que alguien se sienta incómodo, eso cuenta como acoso y es motivo suficiente para dejar de hacerlo.
 
-```markdown
-Syntax highlighted code block
+Se espera que los participantes solicitados para detener cualquier comportamiento de acoso cumplan inmediatamente.
 
-# Header 1
-## Header 2
-### Header 3
+Los patrocinadores, jueces, mentores, voluntarios, organizadores, personal de MLH y cualquier otra persona en el evento también están sujetos a la política contra el acoso. En particular, los asistentes no deben usar imágenes sexualizadas, actividades u otro material tanto en sus hacks como durante el evento. El personal de Booth (incluidos los voluntarios) no debe usar ropa / uniformes / disfraces sexualizados ni crear un ambiente sexualizado.
 
-- Bulleted
-- List
+Si un participante se involucra en un comportamiento de acoso, Major League Hacking puede tomar cualquier acción que MLH considere apropiada, incluyendo advertir al infractor o expulsión del evento sin elegibilidad para reembolso o reembolso de ningún tipo.
 
-1. Numbered
-2. List
+Si lo hostigan, observe que alguien más está siendo hostigado o tiene otras inquietudes, comuníquese con Major League Hacking utilizando los procedimientos de informe definidos a continuación.
 
-**Bold** and _Italic_ and `Code` text
+Los representantes de MLH estarán encantados de ayudar a los participantes a ponerse en contacto con la seguridad del campus o la policía local, proporcionar escoltas o ayudar a quienes sufren acoso a sentirse seguros durante la duración del evento. Valoramos su asistencia.
 
-[Link](url) and ![Image](src)
-```
+Esperamos que los participantes sigan estas reglas en todos los lugares de hackathon, interacciones en línea en relación con el evento, eventos sociales relacionados con hackathon y transporte provisto por hackathon.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Reglas:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/futurelabmx/cc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Si asistes a un evento presencial en una universidad, te recomendamos...
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Mantener el espacio limpio y depositar la basura en su lugar.
+* Apagar la luz eléctrica cuando se desocupen los espacios.
+* En caso de mover el mobiliario, favor de acomodarlo en su respectivo lugar al ser desocupado.
+* No pintar o dañar el mobiliario.
+* Verifique sus pertenencias, ya que la universidad y el equipo organizador no se hacen responsables de objetos extraviados.
+* Prohibido fumar dentro o cerca de las aulas.
+* Prohibido presentarse en estado de ebriedad o bajo la influencia de sustancias nocivas para la salud.
+* Evite pegar goma de mascar o algún otro alimento en pupitres, mesas, sillas o arrojar estos mismos al piso.
+* Por respeto al trabajo colaborativo en el aula, el consumo de alimentos permitido en la zona de trabajo se limita a los hacksnacks. Para la hora de la comida se utilizará el área de comida.
+* El comité organizador se reservará a el derecho de expulsar a cualquier persona ante algún acto que falte al presente reglamento.
+* El comité organizador tendrá a bien discutir las acciones pertinentes a tomar, en caso de ser necesario, ante cualquier falta.
+* Reportar cualquier anomalía al comité organizador.
