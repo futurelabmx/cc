@@ -1,27 +1,25 @@
-## Major League Hacking (MLH) + GitHub
+## Código de Conducta
 
-### Código de Conducta:
+*TL; DR.* Se respetuoso. El acoso y el abuso nunca son tolerados. Si se encuentra en una situación que le incomoda en un evento de la MLH, de GitHub Education o de cualquier índole, si el evento en sí crea un entorno inseguro o inapropiado, o si interactuar con un organizador o representante del evento le hace sentir incómodo, infórmelo usando los procedimientos incluidos en este documento.
 
-*TL; DR.* Se respetuoso. El acoso y el abuso nunca son tolerados. Si se encuentra en una situación que lo incomoda en un evento de MLH sancionado oficialmente, si el evento en sí crea un entorno inseguro o inapropiado, o si interactuar con un representante de MLH o un organizador del evento lo hace sentir incómodo, infórmelo usando los procedimientos incluidos. en este documento.
+Este hackathon es sinónimo de inclusividad. Creemos que cada persona tiene derecho a hackear en un entorno seguro y acogedor.
 
-Major League Hacking es sinónimo de inclusividad. Creemos que cada persona tiene derecho a hackear en un entorno seguro y acogedor.
-
-El acoso incluye pero no se limita a comentarios verbales o escritos ofensivos relacionados con el género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, religión, imágenes sexuales en espacios públicos, intimidación deliberada, acoso, seguimiento, acoso de fotografía o grabación , interrupción sostenida de las conversaciones u otros eventos, contacto físico inapropiado y atención sexual no deseada. Si lo que haces es hacer que alguien se sienta incómodo, eso cuenta como acoso y es motivo suficiente para dejar de hacerlo.
+El acoso incluye pero no se limita a comentarios verbales o escritos ofensivos relacionados con el género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, religión, imágenes sexuales en espacios públicos, intimidación deliberada, acoso, seguimiento, acoso de fotografía o grabación, interrupción sostenida de las conversaciones u otros eventos, contacto físico inapropiado y atención sexual no deseada. Si lo que haces es hacer que alguien se sienta incómodo, eso cuenta como acoso y es motivo suficiente para dejar de hacerlo.
 
 Se espera que los participantes solicitados para detener cualquier comportamiento de acoso cumplan inmediatamente.
 
-Los patrocinadores, jueces, mentores, voluntarios, organizadores, personal de MLH y cualquier otra persona en el evento también están sujetos a la política contra el acoso. En particular, los asistentes no deben usar imágenes sexualizadas, actividades u otro material tanto en sus hacks como durante el evento. El personal de Booth (incluidos los voluntarios) no debe usar ropa / uniformes / disfraces sexualizados ni crear un ambiente sexualizado.
+Los patrocinadores, jueces, mentores, voluntarios, organizadores y cualquier otra persona en el evento también están sujetos a la política contra el acoso. En particular, los asistentes no deben usar imágenes sexualizadas, actividades u otro material tanto en sus hacks como durante el evento. El personal de Booth (incluidos los voluntarios) no debe usar ropa / uniformes / disfraces sexualizados ni crear un ambiente sexualizado.
 
-Si un participante se involucra en un comportamiento de acoso, Major League Hacking puede tomar cualquier acción que MLH considere apropiada, incluyendo advertir al infractor o expulsión del evento sin elegibilidad para reembolso o reembolso de ningún tipo.
+Si un participante se involucra en un comportamiento de acoso, el equipo organizador puede tomar cualquier acción que considere apropiada, incluyendo advertir al infractor o expulsión del evento sin elegibilidad para reembolso o reembolso de ningún tipo.
 
-Si lo hostigan, observe que alguien más está siendo hostigado o tiene otras inquietudes, comuníquese con Major League Hacking utilizando los procedimientos de informe definidos a continuación.
+Si lo hostigan, observe que alguien más está siendo hostigado o tiene otras inquietudes, comuníquese con el equipo organizador o con las y los embajadores estudiantiles (GitHub Campus Experts) utilizando los procedimientos de informe definidos a continuación.
 
-Los representantes de MLH estarán encantados de ayudar a los participantes a ponerse en contacto con la seguridad del campus o la policía local, proporcionar escoltas o ayudar a quienes sufren acoso a sentirse seguros durante la duración del evento. Valoramos su asistencia.
+Los embajadores estudiantiles (GitHub Campus Experts) estarán encantados de ayudar a las y los participantes a ponerse en contacto con la seguridad del campus o la policía local, proporcionar escoltas o ayudar a quienes sufren acoso a sentirse seguros durante la duración del evento. Valoramos su asistencia.
 
 Esperamos que los participantes sigan estas reglas en todos los lugares de hackathon, interacciones en línea en relación con el evento, eventos sociales relacionados con hackathon y transporte provisto por hackathon.
 
 
-### Reglas:
+## Reglas
 
 Si asistes a un evento presencial en una universidad, te recomendamos...
 
@@ -37,3 +35,7 @@ Si asistes a un evento presencial en una universidad, te recomendamos...
 * El comité organizador se reservará a el derecho de expulsar a cualquier persona ante algún acto que falte al presente reglamento.
 * El comité organizador tendrá a bien discutir las acciones pertinentes a tomar, en caso de ser necesario, ante cualquier falta.
 * Reportar cualquier anomalía al comité organizador.
+
+
+------
+<sup>Este documento está basado en el CC de la MLH.</sup>
